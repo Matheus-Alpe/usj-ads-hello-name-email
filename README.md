@@ -6,7 +6,7 @@
 
 ## Sobre
 
-Esse repositório é para postar a atividade da aula de Linguagem de Programação II. É simples e com intuito de aprendizado do POST com Java.
+Esse repositório é para postar a atividade da aula de Linguagem de Programação II. É simples e com intuito de aprendizado do GET com Java.
 
 ##### Utilizados:
 ```
